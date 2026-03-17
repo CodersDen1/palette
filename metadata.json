@@ -1,0 +1,5 @@
+{
+  "name": "Palette",
+  "description": "Drag and drop interior design images to instantly detect finishes, furniture, and materials, complete with vendor matching and Bill of Quantities generation.",
+  "requestFramePermissions": []
+}
