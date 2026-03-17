@@ -4,7 +4,7 @@ module.exports = {
       name: "palette",
       script: "npm",
       args: "run preview",
-      cwd: "/home/palette-2",
+      cwd: "/home/ubuntu/palette",
       watch: false,
       instances: 1,
       exec_mode: "fork",
