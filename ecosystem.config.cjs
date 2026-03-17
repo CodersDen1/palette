@@ -2,8 +2,8 @@ module.exports = {
   apps: [
     {
       name: "palette",
-      script: "./node_modules/.bin/vite",
-      args: "preview --host 0.0.0.0 --port 4173",
+      script: "npm",
+      args: "run preview",
       cwd: "/home/palette-2",
       watch: false,
       instances: 1,
